@@ -5,6 +5,8 @@
 **Overview**
 In this assignment, I've created a web app that lets users view and leave comments on the latest news. I'm using Mongoose and Cheerio to scrape news from the New York Times.
 
+![Image of the homepage displayed in the browser](public/assets/images/Home-page.png)
+
 **First things first**
  Create a GitHub repo and clone it to my computer. 
 1. Run npm init. 
@@ -23,8 +25,6 @@ For grading purposes - this assignment must be deployed.
 
 **Instructions**
 Create an app that accomplishes the following:
-
-![Image of the homepage displayed in the browser](public/assets/images/Home-page.png)
 
 Whenever a user visits, the app should scrape stories from a news outlet and display them for the user. Each scraped article should be saved to the application database. At a minimum, the app should scrape and display the following information for each article:
 1. Headline - the title of the article
