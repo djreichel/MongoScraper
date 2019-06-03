@@ -22,6 +22,8 @@ NOTE: To earn complete credit, I must use all five of these packages in my assig
 **Submission on BCS**
 For grading purposes - this assignment must be deployed. 
 * Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
+Check them out here: https://quiet-sierra-73646.herokuapp.com/
+and here: https://github.com/djreichel/MongoScraper
 
 **Instructions**
 Create an app that accomplishes the following:
@@ -39,3 +41,4 @@ Add a README.md to your repository describing the project. You're reading it.
 
 **Add to my portfolio**
 After completing this homework please add the piece to my portfolio. 
+Check it out here: https://djreichel.github.io/Bootstrap-Portfolio/portfolio.html
