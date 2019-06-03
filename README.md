@@ -24,7 +24,7 @@ For grading purposes - this assignment must be deployed.
 **Instructions**
 Create an app that accomplishes the following:
 
-![Image of the homepage displayed in the browser](images/Home-page.png)
+![Image of the homepage displayed in the browser](public/assets/images/Home-page.png)
 
 Whenever a user visits, the app should scrape stories from a news outlet and display them for the user. Each scraped article should be saved to the application database. At a minimum, the app should scrape and display the following information for each article:
 1. Headline - the title of the article
